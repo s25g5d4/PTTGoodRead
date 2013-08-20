@@ -7,7 +7,7 @@ A userscript made for better browsing PTT web BBS. Though PTT web BBS can show i
 
 For Mozilla Firefox users, please install [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/ "Greasemonkey :: Add-ons for Firefox") first.
 
-Mozilla Firefox 的使用者請先安裝 [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/ "Greasemonkey :: Add-ons for Firefox")
+Mozilla Firefox 的使用者請先安裝 [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/ "Greasemonkey :: Add-ons for Firefox")。
 
 For Google Chrome users, your browser has built-in support for userscripts, all you need is drag PTTGoodRead.user.js into Options -> Extensions.
 
